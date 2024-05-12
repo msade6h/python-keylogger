@@ -47,7 +47,7 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 **Contact:**
-For any inquiries or support, feel free to contact the project maintainer at: your@email.com
+For any inquiries or support, feel free to contact the project maintainer at: sade6h@gmail.com
 
 **Acknowledgments:**
 Special thanks to [Mateam Organization](https://www.mateam.org) for their support and inspiration.
@@ -98,7 +98,7 @@ Save this content in a file named `README.md` in your GitHub repository to provi
 این پروژه تحت مجوز MIT منتشر شده است. برای جزئیات بیشتر [LICENSE](LICENSE) را مشاهده کنید.
 
 **تماس:**
-برای هرگونه پرسش یا پشتیبانی، با مسئول پروژه تماس بگیرید: your@email.com
+برای هرگونه پرسش یا پشتیبانی، با مسئول پروژه تماس بگیرید: sade6h@gmail.com
 
 **تشکر و قدردانی:**
 با تشکر ویژه از سازمان [ماتیم](https://www.mateam.org) برای حمایت و الهام.
